@@ -1,1 +1,5 @@
 # CollgBuzz
+There are numerous of societies with numerous of students highlighting their ideas and talents. However, students within college are not aware of such opportunities because of lack of knowledge, awareness and promotion of their societies and platform available. Even the students migrating to or from campus need to buy and sell their extra stuff in less amount or leave it as it is.
+CollgBuzz provide this platform to students to share their all college activities on a web site that will notify them on addition on any new event, news, blog, queries. Even it allows student to interact with each other to sell or buy their stuff and negotiate prices. Seniors can share their placement and competitive exam and news details easily with their juniors.
+#Need Of collegBuzz
+Now a day, student has depend on whatsapp, facebook, Gmail etc to share information. However through these apps you can share many things with many people due to which some students skip some important information. COLLGBUZZ is only about the college life which keeps you up to date about your college.
